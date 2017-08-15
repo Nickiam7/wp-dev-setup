@@ -1,0 +1,23 @@
+{
+  "name": "THEME_NAME",
+  "version": "0.1.0",
+  "homepage": "",
+  "description": "DESCRIPTION",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "AUTHOR"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "latest",
+    "fontawesome": "latest"
+  }
+}
