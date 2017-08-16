@@ -1,0 +1,21 @@
+/*!
+Theme Name: Theme Name
+Theme URI: uri
+Author: Theme Author
+Description: description
+Version: 1.0.0
+Text Domain: domain
+*/
+@import "bootstrap";
+@import "nav/offcanvas";
+$fa-font-path: "./fonts";
+@import "font-awesome";
+
+@import "variables-site/variables-site";
+@import "mixins/mixins-master";
+@import "modules/accessibility";
+@import "modules/alignments";
+@import "modules/clearings";
+@import "site/secondary/widgets";
+@import "site/site";
+@import "media/media";
